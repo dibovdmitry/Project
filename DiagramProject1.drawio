@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-01-22T06:47:00.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="uKbHofjZL_Jr9hZHuiSv" version="15.5.9" type="github"><diagram id="U0zCq_4r7ZOTAZ8oqjMB" name="Page-1">7VlLc9sgEP41OiYj0NNHP+L2kHSSSWc6PRIL20xl4UE4tvPriySQBMJ1HrI7E+eCYUEra/f7ll1wvPFq942h9fKOJjh1oJvsHG/iQAhiNxQ/hWRfSQZBUAkWjCRyUSN4JC9YCl0p3ZAE59pCTmnKyVoXzmiW4RnXZIgxutWXzWmqv3WNFrgjeJyhtCv9RRK+rKQxjBr5d0wWS/VmEA6qmRVSi+WX5EuU0G1L5N043phRyqveajfGaWE8ZZfquemB2fqPMZzx1zxA8tv4/o7dP4wffnN3y+LRzx9XUsszSjfyg52J6wzdoh1VLSjbG2cCnBhKOaym4rL1yim3bEfyW/leGZDRTZbg4j+4jjfaLgnHj2s0K2a3AjJCtuSrVIyA6M5pxiUGQCzG8t9hxvHu4GeD2pgChZiuMGd7sUQ+AGNpfwlA35fjbeNOoHy0bLkylDIkEbSoVTdGFh1p5zfYHHZtbhoNZ8mwAK8YzVKU52Sm20k3qt1qOOkg+6jNWjYJLCZRMoZTxMmzrt5mJ/mGe0rEi2uXANdwSWCYOqcbNsPyqTakDUUd35qKOGILzDuKSrfVn/1+T3pW9gxgSYVA8Ua0ftlOJEWKfqA45LeoNrEtM6Eh3HqLnkSY1RCBUrLICrgIF2MmBAVpiIhjQzmxIklS6BgxnJMX9FTqK9CzLqxT2isYOcHkLSyUQVcqa0JdG2mHKXCQslfuNYxDzbOwH+D5mtIr8XWaBjqf5/gkSPG/OG9QddAX501FJ+Z8YOd81KLxtCRwtS1Wu+dQsX2q9sp69xy1wkQoOd/EgrhcP/2cUcA/GgUiD2rO9vrBYmCEgehcYSC89DDgRTp7w+idYcBUFLjnDQORPQyAVhiIVEZ8dKMvs4VPSfHwnxR3r4EqpPba+z6IshDoSg0Fp+N3fPH8Bn3xG/xffg/s/B5qSb1lU7/RS+Ka8WPVWotkwTd+OpqjDae5BJEY5pzRP3hMUyr0TjKaFVrmJE1NUf/FOAgNr0aWYtwGT+9UxbiC2eVS1jcz8/dSNgRHFJ2YssB+mDWIO5SsSApb/cEBLot+nZRX2XzZfsq9Grh2GDb5OIj03bqfdByaVfnZ0nFgyeIui/xmGl1X1x/Nx+tj1nOR/yv1An250ozj53blgdxr2kmqYOccpbyagGFaZFNPTPQWRa91lAJUlK9Df1V/jVXJZmwP7XqtPoyx6u/raOdSc0EPWnJB38IXM63o72LmQALxJrTUt2SBvr51Ftg8Vd0C1FN18dDCczEb28BjvR3ogue1Hn49yGx3eK8JnR9Ciw8NtFiu8cJ+CgcxbG5lq6DW3G17N38B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-04T09:35:57.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="t3y5lXVTF79QjT2YYsgn" version="16.5.3" type="github">
+  <diagram id="U0zCq_4r7ZOTAZ8oqjMB" name="Page-1">
+    <mxGraphModel dx="654" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="isL8PMrPQCQYt0wr8BTN-1" value="Работа игры" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isL8PMrPQCQYt0wr8BTN-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="450" as="sourcePoint" />
+            <mxPoint x="280" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isL8PMrPQCQYt0wr8BTN-3" value="Входные данные" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="isL8PMrPQCQYt0wr8BTN-2" vertex="1" connectable="0">
+          <mxGeometry x="-0.286" y="2" relative="1" as="geometry">
+            <mxPoint x="14" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isL8PMrPQCQYt0wr8BTN-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="490" as="sourcePoint" />
+            <mxPoint x="280" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isL8PMrPQCQYt0wr8BTN-5" value="Запуск игры" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="isL8PMrPQCQYt0wr8BTN-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.2732" y="3" relative="1" as="geometry">
+            <mxPoint x="15" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isL8PMrPQCQYt0wr8BTN-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339.5" y="670" as="sourcePoint" />
+            <mxPoint x="339.5" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isL8PMrPQCQYt0wr8BTN-9" value="Код игры" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="230" y="570" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="isL8PMrPQCQYt0wr8BTN-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="470" as="sourcePoint" />
+            <mxPoint x="610" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isL8PMrPQCQYt0wr8BTN-11" value="Игровой процесс" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="isL8PMrPQCQYt0wr8BTN-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.177" y="3" relative="1" as="geometry">
+            <mxPoint x="24" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isL8PMrPQCQYt0wr8BTN-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339.5" y="280" as="sourcePoint" />
+            <mxPoint x="339.5" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isL8PMrPQCQYt0wr8BTN-19" value="Правила &lt;br&gt;использования&lt;br&gt;приложения" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="190" y="320" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
